@@ -29,6 +29,7 @@ logs:
   # Logs are here
   OPDS: "logs/opds.log"
   SCAN: "logs/scan.log"
+  FIX: "logs/fixtrash.log"
   DEBUG: false
 
 opds:
